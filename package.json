@@ -1,0 +1,18 @@
+{
+  "name": "minesweeper-console",
+  "version": "1.0.0",
+  "description": "Play minesweeper in the console, because why not?",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RealHandy/minesweeper-console.git"
+  },
+  "author": "RealHandy",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
