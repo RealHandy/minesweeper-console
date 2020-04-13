@@ -9,7 +9,9 @@ Install it:
 
 Play it:
 
-`node .` or `node game.js`
+`node node_modules/minesweeper-console/game.js` (MacOS/Linux)
+`node node_modules\minesweeper-console\game.js` (Windows)
+
 
 ## Controls
 
@@ -24,3 +26,5 @@ At the start, you can specify the width and height of the board (up to 99 in eac
 ## Why?
 
 Why not? It's not fully structured code, so it's not of particular educational value, but it might be of use for something.
+
+(And I'm learning publishing to npm, so there's that.)
