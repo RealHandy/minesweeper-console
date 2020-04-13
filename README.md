@@ -31,5 +31,6 @@ Why not? It's not fully structured code, so it's not of particular educational v
 
 ## History
 
-1.0.0 Initial version
-1.0.1 npm published version (np says it's failing to publish but it's not)
+- 1.0.0 Initial version
+- 1.0.1 npm published version (np says it's failing to publish but it's not)
+- 1.0.2 Figuring out bin

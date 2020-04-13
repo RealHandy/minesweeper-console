@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 let rl = require('readline-sync');
 
 let board = require('./board');

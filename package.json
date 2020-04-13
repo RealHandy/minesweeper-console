@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Play minesweeper in the console, because why not?",
   "main": "game.js",
+  "bin": "./game.js",
   "scripts": {
     "test": "echo \"No test specified\""
   },
