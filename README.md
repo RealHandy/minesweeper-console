@@ -5,12 +5,11 @@ Play Minesweeper in the console in Node.js
 
 Install it:
 
-`npm i minesweeper-console`
+`npm i -g minesweeper-console`
 
 Play it:
 
-`node node_modules/minesweeper-console/game.js` (MacOS/Linux)
-`node node_modules\minesweeper-console\game.js` (Windows)
+`minesweeper-console`
 
 
 ## Controls
@@ -31,6 +30,4 @@ Why not? It's not fully structured code, so it's not of particular educational v
 
 ## History
 
-- 1.0.0 Initial version
-- 1.0.1 npm published version (np says it's failing to publish but it's not)
-- 1.0.2 Figuring out bin
+- 1.0.3 Current version
