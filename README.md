@@ -28,3 +28,8 @@ At the start, you can specify the width and height of the board (up to 99 in eac
 Why not? It's not fully structured code, so it's not of particular educational value, but it might be of use for something.
 
 (And I'm learning publishing to npm, so there's that.)
+
+## History
+
+1.0.0 Initial version
+1.0.1 npm published version (np says it's failing to publish but it's not)
